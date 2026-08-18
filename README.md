@@ -8,6 +8,7 @@ Grupo 9
 - 85817 - Calvi, Francisco
 - 83573 - Begliardo, Francisco Hugo
 - 93686 - Brollo, Lucas Emanuel
+- 90023 - Carreras, Nicolás 
 
 ## Reglas de nombrado
 hacer una tabla 
