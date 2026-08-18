@@ -5,6 +5,7 @@ Grupo 9
 
 ## Participantes
 - 85860 - Canaan, Abigail Sara
+- 85817 - Calvi, Francisco
 
 ## Reglas de nombrado
 hacer una tabla 
