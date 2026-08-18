@@ -1,7 +1,17 @@
-"# ISW_4K2_C2_2026" 
+# ISW_4K2_C2_2026
 
+Repositorio correspondiente a la materia **Ingeniería de Software - 4K2 - Ciclo 2026**.
+Grupo 9
 
-# Estructura repositorio
+## Participantes
+- 85860 - Canaan, Abigail Sara
+
+## Reglas de nombrado
+hacer una tabla 
+
+## Estructura del repositorio
+
+```text
 ISW/
 │
 ├── 00_Configuracion/
@@ -12,7 +22,7 @@ ISW/
 ├── 01_Bibliografia/
 │   ├── Libros/
 │   ├── Papers/
-|   │   ├── no_silver_bullet.pdf
+│   │   └── no_silver_bullet.pdf
 │   └── Material_Complementario/
 │
 ├── 02_Unidades/
@@ -27,7 +37,14 @@ ISW/
 │   │   └── Resumenes/
 │   │
 │   ├── U3/
+│   │   ├── Teoria/
+│   │   ├── Practica/
+│   │   └── Resumenes/
+│   │
 │   └── U4/
+│       ├── Teoria/
+│       ├── Practica/
+│       └── Resumenes/
 │
 ├── 03_Trabajos_Practicos/
 │   ├── TP01/
@@ -35,7 +52,7 @@ ISW/
 │   │   ├── Desarrollo/
 │   │   └── Entrega/
 │   ├── TP02/
-│   └── TP03/
+│   ├── TP03/
 │   ├── ISW_Guia_Trabajos_Practicos_Resueltos.pdf
 │   └── ISW_Guia_Trabajos_Practicos_Evaluables.pdf
 │
@@ -44,6 +61,7 @@ ISW/
 │   │   ├── Parciales_Anteriores/
 │   │   ├── Ejercicios/
 │   │   └── Resumenes/
+│   │
 │   └── Segundo_Parcial/
 │       ├── Parciales_Anteriores/
 │       ├── Ejercicios/
