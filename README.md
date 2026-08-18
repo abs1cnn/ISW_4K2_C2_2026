@@ -6,6 +6,7 @@ Grupo 9
 ## Participantes
 - 85860 - Canaan, Abigail Sara
 - 85817 - Calvi, Francisco
+- 83573 - Begliardo, Francisco Hugo 
 
 ## Reglas de nombrado
 hacer una tabla 
