@@ -49,33 +49,17 @@ ISW/
 │   └── Material_Complementario/
 │
 ├── 02_Unidades/
-│   ├── U1/
-│   │   ├── Teoria/
-│   │   ├── Practica/
-│   │   └── Resumenes/
-│   │
-│   ├── U2/
-│   │   ├── Teoria/
-│   │   ├── Practica/
-│   │   └── Resumenes/
-│   │
-│   ├── U3/
-│   │   ├── Teoria/
-│   │   ├── Practica/
-│   │   └── Resumenes/
-│   │
-│   └── U4/
+│   └── U<<Nro>>/
 │       ├── Teoria/
 │       ├── Practica/
 │       └── Resumenes/
+│   
 │
 ├── 03_Trabajos_Practicos/
-│   ├── TP01/
-│   │   ├── Consigna/
-│   │   ├── Desarrollo/
-│   │   └── Entrega/
-│   ├── TP02/
-│   └── TP03/
+│   └── TP<<Nro>>/
+│       ├── Consigna/
+│       ├── Desarrollo/
+│       └── Entrega/ 
 │
 ├── 04_Parciales/
 │   ├── Primer_Parcial/
