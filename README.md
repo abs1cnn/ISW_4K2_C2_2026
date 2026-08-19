@@ -9,9 +9,30 @@ Grupo 9
 - 83573 - Begliardo, Francisco Hugo
 - 93686 - Brollo, Lucas Emanuel
 - 90023 - Carreras, Nicolás 
+- 85922 - Marrali, Matias
 
 ## Reglas de nombrado
-hacer una tabla 
+
+| Nombre | Regla de nombrado | Ubicación | Extensiones admitidas |
+| --- | --- | --- | --- |
+| Configuración | `ISW_[nombre_del_documento].[extensión]` | `00_Configuracion/` | `.pdf` |
+| Libros | `[titulo_del_libro].[extensión]` | `01_Bibliografia/Libros/` | `.pdf`, `.epub`, `.docx` |
+| Papers | `[titulo_del_paper].[extensión]` | `01_Bibliografia/Papers/` | `.pdf` |
+| Material complementario | `[tema].[extensión]` | `01_Bibliografia/Material_Complementario/` | `.pdf`, `.docx`, `.pptx`, `.xlsx` |
+| Unidades | `U[numero_de_unidad]` | `02_Unidades/` | No aplica (carpeta) |
+| Teoría | `[tema].[extensión]` | `02_Unidades/U[numero]/Teoria/` | `.pdf`, `.pptx`, `.docx` |
+| Práctica | `[tema].[extensión]` | `02_Unidades/U[numero]/Practica/` | `.pdf`, `.docx`, `.xlsx` |
+| Resúmenes | `Res_[tema].[extensión]` | `02_Unidades/U[numero]/Resumenes/` | `.pdf`, `.docx`, `.md` |
+| Trabajos prácticos | `TP[numero]` | `03_Trabajos_Practicos/` | No aplica (carpeta) |
+| Consignas | `[tema].[extensión]` | `03_Trabajos_Practicos/TP[numero]/Consigna/` | `.pdf`, `.docx` |
+| Desarrollo | `[tema].[extensión]` | `03_Trabajos_Practicos/TP[numero]/Desarrollo/` | `.pdf`, `.docx`, `.xlsx`, `.drawio` |
+| Entregas | `Entrega_TP[numero].[extensión]` | `03_Trabajos_Practicos/TP[numero]/Entrega/` | `.pdf`, `.zip` |
+| Parciales anteriores | `[año]_[tema].[extensión]` | `04_Parciales/` | `.pdf` |
+| Ejercicios | `Ej_[tema].[extensión]` | `04_Parciales/` y `05_Final/` | `.pdf`, `.docx` |
+| Finales anteriores | `[año]_[tema].[extensión]` | `05_Final/Finales_Anteriores/` | `.pdf` |
+| Presentaciones | `[tema].[extensión]` | `06_Clases/Presentaciones/` | `.pptx`, `.pdf` |
+| Apuntes | `[tema].[extensión]` | `06_Clases/Apuntes/` | `.pdf`, `.docx`, `.md` |
+| Grabaciones | `[fecha]_[tema].[extensión]` | `06_Clases/Grabaciones/` | `.mp4`, `.mp3` |
 
 ## Estructura del repositorio
 
