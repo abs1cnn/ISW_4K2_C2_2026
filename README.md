@@ -12,6 +12,7 @@ Grupo 9
 - 90023 - Carreras, Nicolás
 - 85922 - Marrali, Matias
 - 87440 - Mazzucco, Giuliano
+- 63903 - Rodríguez, Fernando Marcos
 
 ## Reglas de nombrado
 
@@ -35,6 +36,10 @@ Grupo 9
 | Presentaciones          | `[tema].[extensión]`                     | `06_Clases/Presentaciones/`                    | `.pptx`, `.pdf`                         |
 | Apuntes                 | `[tema].[extensión]`                     | `06_Clases/Apuntes/`                           | `.pdf`, `.docx`, `.md`                |
 | Grabaciones             | `[fecha]_[tema].[extensión]`             | `06_Clases/Grabaciones/`                       | `.mp4`, `.mp3`                          |
+| Trabajos de investigación | `TI[numero]`                                 | `07_Trabajos_Investigacion/`                     | No aplica (carpeta)                         |
+| Lineamientos             | `[tema].[extensión]`                         | `07_Trabajos_Investigacion/Lineamientos/`        | `.pdf`, `.docx`                             |
+| Desarrollo TI            | `[tema].[extensión]`                         | `07_Trabajos_Investigacion/TI[numero]/Desarrollo/` | `.pdf`, `.docx`, `.xlsx`, `.drawio`, `.pptx`  |
+| Entregas TI              | `Entrega_TI[numero].[extensión]`             | `07_Trabajos_Investigacion/TI[numero]/Entrega/`   | `.pdf`, `.zip`                              |
 
 ## Estructura del repositorio
 
@@ -78,7 +83,13 @@ ISW/
 │   └── Ejercicios/
 │
 └── 06_Clases/
-    ├── Presentaciones/
-    ├── Apuntes/
-    └── Grabaciones/
+│   ├── Presentaciones/
+│   ├── Apuntes/
+│   └── Grabaciones/
+│    
+└── 07_Trabajos_Investigacion/
+    ├── Lineamientos/
+    └── TI<<Nro>>/
+        ├── Desarrollo/
+        └── Entrega/
 ```
