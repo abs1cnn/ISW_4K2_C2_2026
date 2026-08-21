@@ -55,7 +55,7 @@ ISW/
 │
 ├── 02_Unidades/
 │   └── U<<Nro>>/
-│       ├── Teoria/
+│       ├── Notas/
 │       ├── Practica/
 │       └── Resumenes/
 │   
