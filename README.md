@@ -5,10 +5,10 @@ Grupo 9
 
 ## Participantes
 
-- 85860 - Canaan, Abigail Sara
-- 85817 - Calvi, Francisco
 - 83573 - Begliardo, Francisco Hugo
 - 93686 - Brollo, Lucas Emanuel
+- 85817 - Calvi, Francisco
+- 85860 - Canaan, Abigail Sara
 - 90023 - Carreras, Nicolás
 - 85922 - Marrali, Matias
 - 87440 - Mazzucco, Giuliano
@@ -83,9 +83,9 @@ ISW/
 │   └── Ejercicios/
 │
 └── 06_Clases/
-│   ├── Presentaciones/
 │   ├── Apuntes/
-│   └── Grabaciones/
+│   ├── Grabaciones/
+│   └── Presentaciones/
 │    
 └── 07_Trabajos_Investigacion/
     ├── Lineamientos/
